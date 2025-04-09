@@ -7,5 +7,5 @@ CREATE TABLE clientes (
     endereco VARCHAR(200),
     cidade VARCHAR(100),
     estado VARCHAR(50),
-    CPF VARCHAR(10),
+    CPF VARCHAR(11)
 );
